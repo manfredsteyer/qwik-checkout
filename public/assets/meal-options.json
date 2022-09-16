@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Small Snack",
+        "text": "01 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac cursus enim. Morbi aliquam in augue tempor scelerisque.",
+        "img": "/assets/snack.jpg",
+        "price": 10
+    },
+    {
+        "id": 2,
+        "title": "Bowl",
+        "text": "02 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac cursus enim. Morbi aliquam in augue tempor scelerisque.",
+        "img": "/assets/bowl.jpg",
+        "price": 20
+    },
+    {
+        "id": 3,
+        "title": "Pasta",
+        "text": "03 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac cursus enim. Morbi aliquam in augue tempor scelerisque.",
+        "img": "/assets/pasta.jpg",
+        "price": 30
+    }
+]
