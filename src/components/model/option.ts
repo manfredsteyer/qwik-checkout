@@ -46,3 +46,11 @@ export const seatOptions: Option[] = [
         price: 2000,
     }
 ];
+
+export const initOptions: Option[] = [{
+    id: 0,
+    img: '',
+    price: 0,
+    text: '',
+    title: ''
+}];
